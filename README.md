@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to lab 4 👋</h1>
+<h1 align="center">Welcome to lab 5 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [MSteams](https://teams.microsoft.com/l/team/19%3a1b496be02a4249c2acd41097f307dfcf%40thread.tacv2/conversations?groupId=3b29c958-d7ed-4381-9f29-d55afcdc54b0&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [MSteams](https://teams.microsoft.com/l/channel/19%3aiINrWvGZRfPTJYiWcvt-Z2LD1Ux9D2HxVD-bkgbDt5E1%40thread.tacv2/General?groupId=258b4662-b775-4bcd-961a-e62fc74526ce&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](ali.kahwaji@nmit.ac.nz)
 
 
@@ -47,19 +47,13 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab 4 Description
+## :page_facing_up: Lab 5 Description
 
-:arrow_right: `Using HTML only build your personal portfolio.`
-
-:arrow_right: `You do not need to style your portfolio.` 
-
-:arrow_right: `For this lab you need to build only one page.`
-
-:arrow_right: `Use master branch to complete your work.`
-
-:arrow_right: `If you want to style your protfolio create a branch and keep your style work on the branch you created, do not merge it with master branch.`
 
 :arrow_right: `What is the difference between the DOM (Document Object Model) and MVC (Model View Controller)? Use the journal.md to provide your answer with diagrams and examples.`
+
+
+:arrow_right: `List 5 DOM methods with code examples.`
 
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
